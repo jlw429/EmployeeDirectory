@@ -17,7 +17,7 @@
 
 ## Dependencies:
 
-    Built with React, Font_Awesome, Axios, Bootstrap, RandomUserAPI, react-bootstrap.
+    Built with React, Font_Awesome, Axios, Bootstrap, RandomUserAPI, react-bootstrap, GH-Pages.
 
 ## License:
 
@@ -33,7 +33,7 @@
 
 ## Deployed Website:
 
-- [Website](https://employeedirectory19jlw429.herokuapp.com/)
+- [Website](https://jlw429.github.io/EmployeeDirectoryPro19/)
 
 ## Screenshots
 

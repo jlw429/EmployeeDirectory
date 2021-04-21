@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#image {
+  text-align: center;
+  margin-bottom: -50px;
+}
+
+.jumbotron {
+  padding: 5px;
+  margin-top: -40px;
+  margin-bottom: 10px;
+}
+
+#search {
+  border-style: solid;
+  border-color: black;
+  color: black;
+  max-width: 50%;
+  width: 100%;
+  text-align: center;
+  align-content: center;
+}
+
+form {
+  margin-left: 33%;
+}

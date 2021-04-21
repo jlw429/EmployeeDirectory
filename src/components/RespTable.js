@@ -93,7 +93,7 @@ class RespTable extends Component {
             />
           </Form.Group>
         </Form>
-        <Table striped bordered hover table-dark>
+        <Table striped bordered hover size='sm'>
           <thead>
             <tr>
               <th>Picture</th>

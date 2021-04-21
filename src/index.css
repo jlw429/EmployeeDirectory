@@ -36,3 +36,7 @@ code {
 form {
   margin-left: 33%;
 }
+
+span {
+  cursor: pointer;
+}

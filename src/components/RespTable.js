@@ -17,8 +17,6 @@ class RespTable extends Component {
     search: '',
   };
 
-  //GET Request via Axios
-
   componentDidMount() {
     Fetch.API()
       .then((res) => {

@@ -2,7 +2,7 @@
   "name": "employee_directory_19",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jlw429.github.io/EmployeeDirectoryPro19/",
+  "homepage": "https://jlw429.github.io/EmployeeDirectory/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",

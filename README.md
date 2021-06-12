@@ -33,7 +33,7 @@ For the source code, please consult my GitHub page:
 
 ## Deployed Website:
 
-- [Website](https://jlw429.github.io/EmployeeDirectoryPro19/)
+- [Website](https://jlw429.github.io/EmployeeDirectory/)
 
 ## Screenshots
 
